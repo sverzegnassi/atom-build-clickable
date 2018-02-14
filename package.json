@@ -1,9 +1,13 @@
 {
   "name": "atom-build-clickable",
   "main": "lib/clickable.js",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Atom Build provider for Clickable.",
-  "keywords": [ "clickable", "ubuntu touch", "ubports" ],
+  "keywords": [
+    "clickable",
+    "ubuntu touch",
+    "ubports"
+  ],
   "repository": "https://github.com/sverzegnassi/atom-build-clickable",
   "license": "MIT",
   "engines": {
